@@ -13,7 +13,7 @@ Write `!include <path to the desired theme in this repository>` between @startum
 
 ```
 @startuml 
-!include https://raw.githubusercontent.com/ravindra-gadiparthi/puml-themes/main/puml-theme-vuma.puml
+!include https://raw.githubusercontent.com/ravindra-gadiparthi/puml-themes/main/themes/puml-theme-vuma.puml
 
 participant Participant as Foo
 note over Foo: Note Text
