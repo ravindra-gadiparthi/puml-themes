@@ -41,7 +41,7 @@ skinparam entity {
 }
 
 skinparam note {
-    BackgroundColor LightCyan
+    BackgroundColor LightSeaGreen
     BackgroundColor<<event>>  LightGreen  
     BorderColor 454645
     FontColor 454645
