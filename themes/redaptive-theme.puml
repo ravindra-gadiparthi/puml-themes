@@ -1,0 +1,74 @@
+skinparam BackgroundColor DDDDDD
+skinparam shadowing false
+skinparam RoundCorner 7
+skinparam ArrowColor 454645
+skinparam FontColor 454645
+skinparam SequenceLifeLineBorderColor 454645
+skinparam SequenceGroupHeaderFontColor 454645
+skinparam SequenceGroupFontColor 454645
+skinparam SequenceGroupBorderColor 454645
+skinparam SequenceGroupBorderThickness 1
+skinparam sequenceDivider {
+    BorderColor 454645
+    BorderThickness 1
+    FontColor 454645
+}
+
+skinparam participant {
+    BackgroundColor 4287f5
+    BorderColor 454645
+    FontColor White
+    BorderThickness 1.5
+}
+
+skinparam database {
+    BackgroundColor 98DDDE
+    BorderColor 454645
+    FontColor 454645
+}
+
+skinparam entity {
+    BackgroundColor FFDA29
+    BorderColor 454645
+    FontColor 454645
+}
+
+skinparam note {
+    BackgroundColor LightSeaGreen
+    BackgroundColor<<event>>  LightGreen
+    BorderColor 454645
+    FontColor 454645
+    BorderThickness 1
+}
+
+skinparam actor {
+    BackgroundColor 454645
+    BorderColor 454645
+    FontColor 454645
+}
+
+skinparam boundary {
+    BackgroundColor FFDA29
+    BorderColor 454645
+    FontColor 454645
+}
+
+skinparam control {
+    BackgroundColor FFDA29
+    BorderColor 454645
+    FontColor 454645
+}
+
+skinparam collections {
+    BackgroundColor 4287f5
+    BorderColor 454645
+    FontColor 454645
+    BorderThickness 1.5
+}
+
+skinparam queue {
+    BackgroundColor 4287f5
+    BorderColor 454645
+    FontColor FFF
+    BorderThickness 1.5
+}
